@@ -24,6 +24,6 @@ média.
 lido.
 
  9.Faça um programa que leia um número inteiro N e depois imprima os N primeiros
-números naturais ímpares.
+  números naturais ímpares.
 
 10. Faça um programa que calcule e mostre a soma dos 50 primeiros números pares.
