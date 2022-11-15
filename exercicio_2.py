@@ -4,22 +4,23 @@ a primeira usando o loop for
 a segunda e terceira usando o loop while.
 '''
 
-for numero in range(1, 101):
-    print(numero, end=', ')
+limite = 0
+limitador = 0
+contador = 1
 
+for limite in range(100):
+    print(limite + 1)
 
-contagem = 1
-while contagem < 101:
-    print(contagem, end=', ')
-    contagem += 1
-
-
-contador = 0
-while (contador < 101):
+whlie limitador <= 100:
+    print(limitador)
+    limitador = limitador + 1
+    
+whlie True:
+    contador <= 100
     print(contador)
-    contador += 1
-    if (contador == 101):
+    contador = contador + 1 
+    if contador >= 101:
         break
-print('fim do loop')
+print('FIM DO LOOP'
 
 
